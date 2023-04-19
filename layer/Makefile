@@ -94,4 +94,5 @@ installLib:
 		pkg-config \
 		meson \
 		ninja-build \
-		pango-devel
+		pango-devel \
+		poppler-glib-devel
