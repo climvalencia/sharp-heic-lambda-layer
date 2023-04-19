@@ -50,4 +50,5 @@ installLib:
 		librsvg2-devel \
 		libtiff-devel \
 		lcms2-devel \
-		pango-devel
+		pango-devel \
+		poppler-glib-devel
